@@ -6,7 +6,7 @@ from playsound import playsound
 import os
 
 r = sr.Recognizer()
-translator = google_translator()    
+#translator = google_translator()    
 
 while True:
     with sr.Microphone() as source:
