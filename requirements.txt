@@ -1,4 +1,3 @@
-requests = "~=2.27"
 deep-translator==1.11.4
 googletrans==3.0.0
 gTTS==2.4.0
